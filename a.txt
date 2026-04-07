@@ -1,0 +1,1 @@
+    "pages:build" : "npx @cloudFlare/next-on-pages"
