@@ -9,8 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "format": "prettier --write .",
-    "format:check": "prettier --check .",
-    "pages:build": "npx @cloudflare/next-on-pages"
+    "format:check": "prettier --check ."
   },
   "dependencies": {
     "@livekit/components-react": "^2.9.14",
@@ -37,7 +36,6 @@
     "tailwind-merge": "^3.3.0"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "^1.13.16",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@trivago/prettier-plugin-sort-imports": "^5.2.2",
